@@ -5,5 +5,5 @@ joabe medeoros/marcos
 esta ate boa o gráfico ate que esta bom para jogar 
 
 # Erros/Bugs
-
-Incrementos
+esta demorando muito para entrar, esta funcionado só uma fase do jogo, precisa estar em portugues 
+# Incrementos
